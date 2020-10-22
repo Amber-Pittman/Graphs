@@ -14,6 +14,8 @@
 ### Day 1
 * [Graph Traversal and Search](projects/graph)
 
+* Rewatch Guided Project of [Graphs I with Artem Litchmanov](https://www.youtube.com/watch?v=XPp_ipD8Mr8&feature=youtu.be) if necessary
+
 ### Day 2
 * [Earliest Ancestor](projects/ancestor)
 
